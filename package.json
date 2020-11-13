@@ -1,0 +1,18 @@
+{
+  "name": "yorozu.packageManagerSample",
+  "version": "0.0.1",
+  "displayName": "Sample",
+  "description": "Sample",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": {
+    "name": "Naofumi Yawata",
+    "email": "hatch.tech.eng@gmail.com",
+    "url": "https://github.com/yayorozu"
+  }
+}
