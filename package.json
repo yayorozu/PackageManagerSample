@@ -14,5 +14,12 @@
     "name": "Yorozu",
     "email": "hatch.tech.eng@gmail.com",
     "url": "https://github.com/yayorozu"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Sample1",
+      "description": "Simple1",
+      "path": "Samples~/Sample1"
+    }
+  ]
 }
