@@ -4,7 +4,6 @@
   "displayName": "Sample",
   "description": "Sample",
   "unity": "2019.1",
-  "unityRelease": "0b5",
   "dependencies": {
   },
   "keywords": [
