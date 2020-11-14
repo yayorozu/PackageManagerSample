@@ -21,5 +21,12 @@
       "description": "Simple",
       "path": "Samples/Sample1"
     }
+  ],
+  "modules": [
+    {
+      "displayName": "Module",
+      "description": "SimpleModule",
+      "path": "Samples/Sample1"
+    }
   ]
 }
